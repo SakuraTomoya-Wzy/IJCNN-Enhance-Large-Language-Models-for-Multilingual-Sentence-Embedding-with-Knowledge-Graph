@@ -1,4 +1,4 @@
-Enhance Large Language Models for Multilingual Sentence Embedding with Knowledge Graph
+## Enhance Large Language Models for Multilingual Sentence Embedding with Knowledge Graph
 ![alt text](image.png)
 
 Sentence representation is a major challenge in natural language processing, especially in multilingual environments. Current approaches to sentence representation using Large Language Models (LLMs) often require large amounts of data for fine-tuning, and research has focused on English content. In addition, comparative datasets translated directly from English can contain many semantic and syntactic errors. To address these issues, we propose a new approach to enhance multilingual sentence embeddings using LLMs and knowledge graphs.
